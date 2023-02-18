@@ -1,0 +1,15 @@
+/Users/emmaaleksic/Projects/ProduktAutomat/ProduktAutomat/bin/Debug/net6.0/ProductAutomat
+/Users/emmaaleksic/Projects/ProduktAutomat/ProduktAutomat/bin/Debug/net6.0/ProductAutomat.deps.json
+/Users/emmaaleksic/Projects/ProduktAutomat/ProduktAutomat/bin/Debug/net6.0/ProductAutomat.runtimeconfig.json
+/Users/emmaaleksic/Projects/ProduktAutomat/ProduktAutomat/bin/Debug/net6.0/ProductAutomat.dll
+/Users/emmaaleksic/Projects/ProduktAutomat/ProduktAutomat/bin/Debug/net6.0/ProductAutomat.pdb
+/Users/emmaaleksic/Projects/ProduktAutomat/ProduktAutomat/obj/Debug/net6.0/ProductAutomat.csproj.AssemblyReference.cache
+/Users/emmaaleksic/Projects/ProduktAutomat/ProduktAutomat/obj/Debug/net6.0/ProductAutomat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmaaleksic/Projects/ProduktAutomat/ProduktAutomat/obj/Debug/net6.0/ProductAutomat.AssemblyInfoInputs.cache
+/Users/emmaaleksic/Projects/ProduktAutomat/ProduktAutomat/obj/Debug/net6.0/ProductAutomat.AssemblyInfo.cs
+/Users/emmaaleksic/Projects/ProduktAutomat/ProduktAutomat/obj/Debug/net6.0/ProductAutomat.csproj.CoreCompileInputs.cache
+/Users/emmaaleksic/Projects/ProduktAutomat/ProduktAutomat/obj/Debug/net6.0/ProductAutomat.dll
+/Users/emmaaleksic/Projects/ProduktAutomat/ProduktAutomat/obj/Debug/net6.0/refint/ProductAutomat.dll
+/Users/emmaaleksic/Projects/ProduktAutomat/ProduktAutomat/obj/Debug/net6.0/ProductAutomat.pdb
+/Users/emmaaleksic/Projects/ProduktAutomat/ProduktAutomat/obj/Debug/net6.0/ProductAutomat.genruntimeconfig.cache
+/Users/emmaaleksic/Projects/ProduktAutomat/ProduktAutomat/obj/Debug/net6.0/ref/ProductAutomat.dll
